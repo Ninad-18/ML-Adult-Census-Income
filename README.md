@@ -71,14 +71,8 @@ Target Variable: `income` (<=50K, >50K)
 
 ---
 
-## 🎓 Academic Purpose
-
-This project was developed as part of Data Science Laboratory coursework.
-
----
-
 ## 👤 Author
-Ninad Neelam Patil
+Ninad  Patil
 
 
 
