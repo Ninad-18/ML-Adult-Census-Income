@@ -64,9 +64,9 @@ Target Variable: `income` (<=50K, >50K)
 
 ## 🚀 How to Run
 
-1. Clone the repository
-2. Install dependencies:  pip install -r requirements.txt
-3. Run individual experiment files: python exp1.py
+1. Clone the repository : git clone https://github.com/Ninad-18/ML-Adult-Census-Income
+2. Install dependencies :  pip install -r requirements.txt
+3. Run individual experiment files : python exp1.py
 
 
 ---
