@@ -49,7 +49,7 @@ Target Variable: `income` (<=50K, >50K)
 - Scikit-learn
 - SciPy
 - Imbalanced-learn (SMOTE)
-- Apache Spark (PySpark)
+- Apache Spark (PySpark) - Experimental
 
 ---
 
